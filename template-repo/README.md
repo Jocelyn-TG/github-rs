@@ -1,36 +1,36 @@
-# Sumador de Números en Archivo
+# Nom-Proyecto
 
-Este es un script de Python diseñado para leer números (enteros o decimales) de un archivo y sumarlos.
+Este es un script de Python diseñado para...
 
 ## Uso
 
-El script acepta un solo argumento, el nombre del archivo a leer:
+El script acepta --- argumento/s, ---:
 
 ```
-python sumador.py -inputfile [archivo]
+
 ```
 
-donde `[archivo]` es el nombre del archivo que contiene los números a sumar. El archivo debe contener un número por línea.
+donde `---` es ---.
 
 ## Salida
 
-El script imprimirá la suma de los números en la consola. 
+El script ---. 
 
 ## Control de errores
 
-Si el archivo proporcionado no existe, el script generará un mensaje de error. Del mismo modo, si el archivo contiene entradas que no son números, el script generará un error.
+Si ---, el script generará un mensaje de error. Del mismo modo, si ---, el script generará un error.
 
 ## Pruebas
 
 El script incluye un conjunto de pruebas unitarias. Puede ejecutar estas pruebas con:
 
 ```
-python -m unittest test_sumador.py
+python -
 ```
 
 ## Datos
 
-El script está diseñado para operar en archivos de texto plano, con un número por línea. No hay restricciones en el número de líneas en el archivo.
+El script está diseñado para ---.
 
 ## Metadatos y documentación
 
