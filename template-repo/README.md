@@ -3,7 +3,7 @@
 Este es un script de Python diseñado para...
 
 ## Uso
-"aqui tienes que anotar el proposito de tu proyecto/Srcipt
+"Aqui tienes que anotar el proposito de tu proyecto/Script"
 
 El script acepta --- argumento/s, ---:
 
